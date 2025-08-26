@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Image Resolution Enhancer2",
+  "description": "Upload a low-resolution image and use AI to upscale it, enhancing its details and clarity. Compare the original and enhanced images side-by-side and download the result.",
+  "requestFramePermissions": []
+}
